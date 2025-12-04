@@ -1,4 +1,4 @@
-package com.backend
+package com.backend.notificationservice
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
